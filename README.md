@@ -1,6 +1,6 @@
 # Sudoku++
 
-간단하고 직관적인 모바일 스도쿠 앱
+React Native기반 모바일 스도쿠 앱
 
 ## 주요 기능
 
@@ -16,7 +16,7 @@
 - **프론트엔드:** React, React-Native
 - **개발 플랫폼:** Expo
 - **상태 관리:** Zustand
-- **그래픽 렌더링:** WebGL
+- **스도쿠 렌더링:** WebGL
 
 ## 로컬 개발 환경 설정
 
@@ -48,7 +48,7 @@ npx expo android
 npx expo ios
 ```
 
-> **Note:** 실행하기 전에 Android Studio나 Xcode를 플랫폼에 맞게 설치해야 합니다.
+> **Note:** 실행하기 전에 Android Studio나 Xcode를 플랫폼에 맞게 설치 필요.
 
 ## 스크린샷
 
